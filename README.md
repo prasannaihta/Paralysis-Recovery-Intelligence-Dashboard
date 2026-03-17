@@ -4,7 +4,7 @@
 ![Overview](Overview.png)
 
 ### Clinical Analysis
-![Clinical](Clinical Analysis.png)
+![Clinical](ClinicalAnalysis.png)
 
 ### Recovery Analysis
-![Recovery](Recovery Analysis.png)
+![Recovery](RecoveryAnalysis.png)
