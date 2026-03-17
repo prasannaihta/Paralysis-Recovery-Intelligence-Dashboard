@@ -3,8 +3,8 @@
 ### Overview
 ![Overview](Overview.png)
 
-### Clinical
-![Clinical](Clinical.png)
+### ClinicalAnalysis
+![Clinical](ClinicalAnalysis.png)
 
-### Recovery
-![Recovery](Recovery.png)
+### RecoveryAnalysis
+![Recovery](RecoveryAnalysis.png)
